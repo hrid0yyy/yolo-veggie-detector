@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ### 2. Start Server
 ```bash
-python main.py
+python start_server.py
 ```
 
 The server will start on `http://<your-local-ip>:8000`
