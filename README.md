@@ -1,6 +1,6 @@
-# ESP32 YOLO Object Detection Server
+# ESP32S3 YOLO Object Detection Server
 
-A FastAPI server that receives images from ESP32 camera and performs YOLO object detection.
+A FastAPI server that receives images from ESP32S3 camera and performs YOLO object detection.
 
 ## Quick Start
 
