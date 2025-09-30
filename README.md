@@ -34,7 +34,7 @@ The server will start on `http://<your-local-ip>:8000`
 - **Board**: `ESP32S3 Dev Module` (not ESP32 Dev Module)
 - **Tools Settings**: Configure as shown below
 
-![Arduino Tools Settings](arduino_tools_settings.png)
+![Arduino Tools Settings](arduino_tools_settings.jpg)
 
 **Required Tools Settings:**
 ```
