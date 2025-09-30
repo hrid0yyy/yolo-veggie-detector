@@ -1,11 +1,11 @@
 # Core web framework
-fastapi==0.104.1
-uvicorn==0.24.0
+fastapi
+uvicorn
 
 # YOLO and computer vision
-ultralytics==8.0.196
-opencv-python==4.8.1.78
-numpy==1.24.3
+ultralytics
+opencv-python
+numpy
 
 # HTTP requests handling
-python-multipart==0.0.6
+python-multipart
